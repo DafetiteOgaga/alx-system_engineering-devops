@@ -1,0 +1,11 @@
+chmod(change mode) is used to change the permissions (access rights) of files and directories.
+
+These permissions are in three categories: 
+1. User/owner - (u)
+2. Group - (g)
+3. Others - (o)
+
+Each category can be assigned different permissions, which control who can read(r), write(w), or execute(x) a file or directory. 
+
+You can use either use symbolic or numeric mode to write and execute this command. 
+1. Symbolic mode means using symbols like u (user/owner), g (group), o (others), and a (all). Additionally, you can use + to add permissions, - to remove permissions, and = to set permissions explicitly.
