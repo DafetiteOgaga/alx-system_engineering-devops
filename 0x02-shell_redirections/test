@@ -1,11 +1,17 @@
-chmod(change mode) is used to change the permissions (access rights) of files and directories.
-
-These permissions are in three categories: 
-1. User/owner - (u)
-2. Group - (g)
-3. Others - (o)
-
-Each category can be assigned different permissions, which control who can read(r), write(w), or execute(x) a file or directory. 
-
-You can use either use symbolic or numeric mode to write and execute this command. 
-1. Symbolic mode means using symbols like u (user/owner), g (group), o (others), and a (all). Additionally, you can use + to add permissions, - to remove permissions, and = to set permissions explicitly.
+total 51
+drwx------ 2 u0_a1077 u0_a1077 3488 Jun 10 17:49 .
+drwx------ 6 u0_a1077 u0_a1077 3488 Jun 10 17:06 ..
+-rwx------ 1 u0_a1077 u0_a1077   32 Jun 10 17:18 0-hello_world
+-rwx------ 1 u0_a1077 u0_a1077   28 Jun 10 17:20 1-confused_smiley
+-rwx------ 1 u0_a1077 u0_a1077   28 Jun 10 17:22 2-hellofile
+-rwx------ 1 u0_a1077 u0_a1077   39 Jun 10 17:25 3-twofiles
+-rwx------ 1 u0_a1077 u0_a1077   29 Jun 10 17:28 4-lastlines
+-rwx------ 1 u0_a1077 u0_a1077   29 Jun 10 17:30 5-firstlines
+-rwx------ 1 u0_a1077 u0_a1077   36 Jun 10 17:38 6-third_line
+-rwx------ 1 u0_a1077 u0_a1077   99 Jun 10 17:46 7-file
+-rwx------ 1 u0_a1077 u0_a1077   26 Jun 10 17:49 8-cwd_state
+-rwx------ 1 u0_a1077 u0_a1077   24 Jun 10 17:06 README.md
+-rwx------ 1 u0_a1077 u0_a1077    0 Jun 10 17:43 School"\'\\*$\?\*\*\*\*\*:)
+-rwx------ 1 u0_a1077 u0_a1077    0 Jun 10 17:43 \*\\'"Best
+-rwx------ 1 u0_a1077 u0_a1077   63 Jun  8 16:03 gitupm
+-rwx------ 1 u0_a1077 u0_a1077    0 Jun 10 17:50 test
