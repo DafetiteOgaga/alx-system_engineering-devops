@@ -1,1 +1,1 @@
-alias ls='rm *'
+This is Shell Variable Expressions.
