@@ -1,6 +1,6 @@
 0x04. Loops, conditions and parsing
 ===================================
-
+- use: ssh-keygen -t rsa
 -   Weight: 1
 
 
