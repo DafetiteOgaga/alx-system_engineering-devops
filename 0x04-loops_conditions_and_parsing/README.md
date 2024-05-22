@@ -1,7 +1,6 @@
 0x04. Loops, conditions and parsing
 ===================================
 
--   By Terry Wambui
 -   Weight: 1
 
 
